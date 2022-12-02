@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo 網站</title>
+    <link>http://lucasblacklu.github.io/posts/</link>
+    <description>Recent content in Posts on Hugo 網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hant</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Fri, 02 Dec 2022 21:18:12 +0000</lastBuildDate><atom:link href="http://lucasblacklu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://lucasblacklu.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 02 Dec 2022 21:18:12 +0000</pubDate>
+      
+      <guid>http://lucasblacklu.github.io/posts/my-first-post/</guid>
+      <description>最近一個月有一半時間在整編譯系統，又有另一半時間在部署網站，起初網站是搭好了，但是自動化沒有（看著別人有自動化，覺得不完美）；後來經過幾番波折之下，又選擇了Hexo，但是Hexo 部署真的太慢了，雖然Hugo官網上說自己部署需要大約3s，但是人家是真的快；今晚又整了一回，這次是打算用Termux+Archlinux一起，說真的Archlinux在Internet好的情況下體驗真的非常好，加上自己打算即使沒有自動化我可以用Backup 把Termux和Archlinux一起遷移到任何系統（我的筆記本經常換系統，基本上沒有一個是穩定下來半年的）</description>
+    </item>
+    
+  </channel>
+</rss>
